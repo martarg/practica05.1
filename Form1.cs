@@ -20,5 +20,20 @@ namespace Git_Ex1
         {
             MessageBox.Show("Saludos desde ¡Hola Mundo!");
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Marta Rodríguez Garrido");
+        }
     }
 }
